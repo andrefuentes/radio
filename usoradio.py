@@ -40,7 +40,7 @@ class radio():
 		else:
 			self.emisora_AM-40
 		else:
-			if not self.emisora_FM:
+			if not self.emisora_AM:
 				self.emisora_FM<=107.5
 				self..emisora_FM=88.0
 			else:
