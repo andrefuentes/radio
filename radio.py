@@ -1,4 +1,4 @@
-class Radio():
+class radio():
 	def __init__ (self,marca):
 		self.marca=marca
 		self.encendido=False
